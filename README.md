@@ -3,7 +3,7 @@ Projects using R at UB
 
 # Project: Prediction of Likely Churning Bank Customers
 - class: EAS 508
-- semester: Fall 2022
+- semester: Fall 2021
 - professor: Nazmus Sakib
 - teammates: Anusha Kondle (anushako@buffalo.edu), Dennis M. Kyalo (dkyalo@buffalo.edu), Muhammad Faique (mfaique@buffalo.edu), Sol Jang (soljang@buffalo.edu)
 - raw data: Data Group 7.csv
@@ -14,7 +14,7 @@ Projects using R at UB
 
 # Project: Predicting Foreign Exchange Rates Using ARIMA
 - class: EAS 509
-- semester: Spring 2023
+- semester: Spring 2022
 - professor: Nikolay Simakov
 - teammates: Anvesh Chamanchula (anveshch@buffalo.edu), Anurag Priyadarshi (anuragpr@buffalo.edu), Sol Jang (soljang@buffalo.edu)
 - data source: Yahoo Finance
