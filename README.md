@@ -18,6 +18,7 @@ Projects using R at UB
 - professor: Nikolay Simakov
 - teammates: Anvesh Chamanchula (anveshch@buffalo.edu), Anurag Priyadarshi (anuragpr@buffalo.edu), Sol Jang (soljang@buffalo.edu)
 - data source: Yahoo Finance
+- modified data: compiled.csv
 - data visualization tool: Shinyapp2
 - R codes: Shinyapp2.R, Result.R
 - final report: Group14 Project final report.pdf
