@@ -12,11 +12,11 @@ Projects using R at UB
 - R codes: R codes Group 7.R
 - final report: Paper Group 7
 
-# Project: Anvesh Chamanchula (anveshch@buffalo.edu), Anurag Priyadarshi (anuragpr@buffalo.edu), Sol Jang (soljang@buffalo.edu)
+# Project: Predicting Foreign Exchange Rates Using ARIMA
 - class: EAS 509
 - semester: Spring 2023
 - professor: Nikolay Simakov
-- teammates: Anusha Kondle (anushako@buffalo.edu), Dennis M. Kyalo (dkyalo@buffalo.edu), Muhammad Faique (mfaique@buffalo.edu), Sol Jang (soljang@buffalo.edu)
+- teammates: Anvesh Chamanchula (anveshch@buffalo.edu), Anurag Priyadarshi (anuragpr@buffalo.edu), Sol Jang (soljang@buffalo.edu)
 - data source: Yahoo Finance
 - data visualization tool: Shinyapp2
 - R codes: Shinyapp2.R, Result.R
